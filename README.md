@@ -14,7 +14,9 @@ The course covers:
 This repository will be updated each time after the class end.
 
 Software requirements:
+
 Python 3.0 and higher
+
 Jupyter Notebook
 
 
